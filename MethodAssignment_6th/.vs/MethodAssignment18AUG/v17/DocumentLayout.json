@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E666FF-1B4B-4EF8-81C3-C160EBC686DF}|MethodAssignment18AUG\\MethodAssignment18AUG.csproj|c:\\users\\vishn\\onedrive\\desktop\\assignments\\methodassignment_6th\\methodassignment18aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E666FF-1B4B-4EF8-81C3-C160EBC686DF}|MethodAssignment18AUG\\MethodAssignment18AUG.csproj|solutionrelative:methodassignment18aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E666FF-1B4B-4EF8-81C3-C160EBC686DF}|MethodAssignment18AUG\\MethodAssignment18AUG.csproj|c:\\users\\vishn\\onedrive\\desktop\\assignments\\methodassignment_6th\\methodassignment18aug\\utility\\oddoreven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E666FF-1B4B-4EF8-81C3-C160EBC686DF}|MethodAssignment18AUG\\MethodAssignment18AUG.csproj|solutionrelative:methodassignment18aug\\utility\\oddoreven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E666FF-1B4B-4EF8-81C3-C160EBC686DF}|MethodAssignment18AUG\\MethodAssignment18AUG.csproj|c:\\users\\vishn\\onedrive\\desktop\\assignments\\methodassignment_6th\\methodassignment18aug\\utility\\individualdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E666FF-1B4B-4EF8-81C3-C160EBC686DF}|MethodAssignment18AUG\\MethodAssignment18AUG.csproj|solutionrelative:methodassignment18aug\\utility\\individualdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E666FF-1B4B-4EF8-81C3-C160EBC686DF}|MethodAssignment18AUG\\MethodAssignment18AUG.csproj|c:\\users\\vishn\\onedrive\\desktop\\assignments\\methodassignment_6th\\methodassignment18aug\\utility\\sumofdigits6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E666FF-1B4B-4EF8-81C3-C160EBC686DF}|MethodAssignment18AUG\\MethodAssignment18AUG.csproj|solutionrelative:methodassignment18aug\\utility\\sumofdigits6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OddOrEven.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\MethodAssignment18AUG\\Utility\\OddOrEven.cs",
+              "RelativeDocumentMoniker": "MethodAssignment18AUG\\Utility\\OddOrEven.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\MethodAssignment18AUG\\Utility\\OddOrEven.cs",
+              "RelativeToolTip": "MethodAssignment18AUG\\Utility\\OddOrEven.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA0wAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:45:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndividualDigit.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\MethodAssignment18AUG\\Utility\\IndividualDigit.cs",
+              "RelativeDocumentMoniker": "MethodAssignment18AUG\\Utility\\IndividualDigit.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\MethodAssignment18AUG\\Utility\\IndividualDigit.cs",
+              "RelativeToolTip": "MethodAssignment18AUG\\Utility\\IndividualDigit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:44:30.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SumOfDigits6.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\MethodAssignment18AUG\\Utility\\SumOfDigits6.cs",
+              "RelativeDocumentMoniker": "MethodAssignment18AUG\\Utility\\SumOfDigits6.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\MethodAssignment18AUG\\Utility\\SumOfDigits6.cs",
+              "RelativeToolTip": "MethodAssignment18AUG\\Utility\\SumOfDigits6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T03:12:32.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\MethodAssignment18AUG\\Program.cs",
+              "RelativeDocumentMoniker": "MethodAssignment18AUG\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\MethodAssignment_6th\\MethodAssignment18AUG\\Program.cs",
+              "RelativeToolTip": "MethodAssignment18AUG\\Program.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAywHsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:04:20.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\bin\Debug\net8.0\DataTypes1st.exe
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\bin\Debug\net8.0\DataTypes1st.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\bin\Debug\net8.0\DataTypes1st.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\bin\Debug\net8.0\DataTypes1st.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\bin\Debug\net8.0\DataTypes1st.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\DataTypes1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\DataTypes1st.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\DataTypes1st.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\DataTypes1st.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\DataTypes1st.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\refint\DataTypes1st.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\DataTypes1st.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\DataTypes1st.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DataTypes1st\DataTypes1st\obj\Debug\net8.0\ref\DataTypes1st.dll

@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\ShapeTaskAug20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\ShapeTaskAug20.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\ShapeTaskAug20.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\ShapeTaskAug20.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\bin\Debug\net8.0\ShapeTaskAug20.exe
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\bin\Debug\net8.0\ShapeTaskAug20.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\bin\Debug\net8.0\ShapeTaskAug20.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\bin\Debug\net8.0\ShapeTaskAug20.dll
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\bin\Debug\net8.0\ShapeTaskAug20.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\ShapeTaskAug20.dll
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\refint\ShapeTaskAug20.dll
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\ShapeTaskAug20.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\ShapeTaskAug20.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\ShapeTaskAug20\ShapeTaskAug20\obj\Debug\net8.0\ref\ShapeTaskAug20.dll

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\abstractclasses\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\abstractclasses\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\models\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\models\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\models\\goat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\models\\goat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\models\\myanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\models\\myanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\interfaces\\ifirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\interfaces\\ifirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\abstractionproject\\abstractionproject\\models\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47C4B94-8CA9-4EBD-BAC8-9DF3004F72BF}|AbstractionProject\\AbstractionProject.csproj|solutionrelative:abstractionproject\\models\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Dog.cs",
+              "RelativeToolTip": "AbstractionProject\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:01:45.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\AbstractClasses\\Animals.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\AbstractClasses\\Animals.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\AbstractClasses\\Animals.cs",
+              "RelativeToolTip": "AbstractionProject\\AbstractClasses\\Animals.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:00:16.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ifirst.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Interfaces\\Ifirst.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\Interfaces\\Ifirst.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Interfaces\\Ifirst.cs",
+              "RelativeToolTip": "AbstractionProject\\Interfaces\\Ifirst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:59:38.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Chicken.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\Models\\Chicken.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Chicken.cs",
+              "RelativeToolTip": "AbstractionProject\\Models\\Chicken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:56:13.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crow.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Crow.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\Models\\Crow.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Crow.cs",
+              "RelativeToolTip": "AbstractionProject\\Models\\Crow.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:55:51.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Goat.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Goat.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\Models\\Goat.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Goat.cs",
+              "RelativeToolTip": "AbstractionProject\\Models\\Goat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:55:26.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Numbers.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\Models\\Numbers.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\Numbers.cs",
+              "RelativeToolTip": "AbstractionProject\\Models\\Numbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:54:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyAnimals.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\MyAnimals.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\Models\\MyAnimals.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Models\\MyAnimals.cs",
+              "RelativeToolTip": "AbstractionProject\\Models\\MyAnimals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:53:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionProject\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\AbstractionProject\\AbstractionProject\\Program.cs",
+              "RelativeToolTip": "AbstractionProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:48:32.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

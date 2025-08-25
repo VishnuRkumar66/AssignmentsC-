@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8405B123-D919-4B29-9943-99A5F76ADE69}|StudentEmployeeAug19\\StudentEmployeeAug19.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\studentemployeeaug19\\studentemployeeaug19\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8405B123-D919-4B29-9943-99A5F76ADE69}|StudentEmployeeAug19\\StudentEmployeeAug19.csproj|solutionrelative:studentemployeeaug19\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8405B123-D919-4B29-9943-99A5F76ADE69}|StudentEmployeeAug19\\StudentEmployeeAug19.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\studentemployeeaug19\\studentemployeeaug19\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8405B123-D919-4B29-9943-99A5F76ADE69}|StudentEmployeeAug19\\StudentEmployeeAug19.csproj|solutionrelative:studentemployeeaug19\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8405B123-D919-4B29-9943-99A5F76ADE69}|StudentEmployeeAug19\\StudentEmployeeAug19.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\studentemployeeaug19\\studentemployeeaug19\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8405B123-D919-4B29-9943-99A5F76ADE69}|StudentEmployeeAug19\\StudentEmployeeAug19.csproj|solutionrelative:studentemployeeaug19\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8405B123-D919-4B29-9943-99A5F76ADE69}|StudentEmployeeAug19\\StudentEmployeeAug19.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\studentemployeeaug19\\studentemployeeaug19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8405B123-D919-4B29-9943-99A5F76ADE69}|StudentEmployeeAug19\\StudentEmployeeAug19.csproj|solutionrelative:studentemployeeaug19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\StudentEmployeeAug19\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "StudentEmployeeAug19\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\StudentEmployeeAug19\\Model\\Employee.cs",
+              "RelativeToolTip": "StudentEmployeeAug19\\Model\\Employee.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:29:45.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\StudentEmployeeAug19\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "StudentEmployeeAug19\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\StudentEmployeeAug19\\Model\\Student.cs",
+              "RelativeToolTip": "StudentEmployeeAug19\\Model\\Student.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:29:27.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\StudentEmployeeAug19\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "StudentEmployeeAug19\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\StudentEmployeeAug19\\Model\\Person.cs",
+              "RelativeToolTip": "StudentEmployeeAug19\\Model\\Person.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:29:07.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\StudentEmployeeAug19\\Program.cs",
+              "RelativeDocumentMoniker": "StudentEmployeeAug19\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\StudentEmployeeAug19\\StudentEmployeeAug19\\Program.cs",
+              "RelativeToolTip": "StudentEmployeeAug19\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:27:34.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

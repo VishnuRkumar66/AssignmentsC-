@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\bin\Debug\net8.0\Inheritance3rd.exe
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\bin\Debug\net8.0\Inheritance3rd.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\bin\Debug\net8.0\Inheritance3rd.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\bin\Debug\net8.0\Inheritance3rd.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\bin\Debug\net8.0\Inheritance3rd.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\Inheritance3rd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\Inheritance3rd.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\Inheritance3rd.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\Inheritance3rd.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\Inheritance3rd.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\refint\Inheritance3rd.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\Inheritance3rd.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\Inheritance3rd.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance3rd\Inheritance3rd\obj\Debug\net8.0\ref\Inheritance3rd.dll

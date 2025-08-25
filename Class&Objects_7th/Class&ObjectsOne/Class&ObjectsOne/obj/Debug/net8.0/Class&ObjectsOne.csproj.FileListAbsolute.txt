@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\bin\Debug\net8.0\Class&ObjectsOne.exe
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\bin\Debug\net8.0\Class&ObjectsOne.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\bin\Debug\net8.0\Class&ObjectsOne.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\bin\Debug\net8.0\Class&ObjectsOne.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\bin\Debug\net8.0\Class&ObjectsOne.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\Class&ObjectsOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\Class&ObjectsOne.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\Class&ObjectsOne.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\Class&ObjectsOne.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\Class&ObjectsOne.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\refint\Class&ObjectsOne.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\Class&ObjectsOne.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\Class&ObjectsOne.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsOne\Class&ObjectsOne\obj\Debug\net8.0\ref\Class&ObjectsOne.dll

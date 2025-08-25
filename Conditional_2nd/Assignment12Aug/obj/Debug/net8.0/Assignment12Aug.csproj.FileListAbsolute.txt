@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\bin\Debug\net8.0\Assignment12Aug.exe
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\bin\Debug\net8.0\Assignment12Aug.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\bin\Debug\net8.0\Assignment12Aug.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\bin\Debug\net8.0\Assignment12Aug.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\bin\Debug\net8.0\Assignment12Aug.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\Assignment12Aug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\Assignment12Aug.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\Assignment12Aug.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\Assignment12Aug.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\Assignment12Aug.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\refint\Assignment12Aug.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\Assignment12Aug.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\Assignment12Aug.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Assignment12Aug\Assignment12Aug\obj\Debug\net8.0\ref\Assignment12Aug.dll

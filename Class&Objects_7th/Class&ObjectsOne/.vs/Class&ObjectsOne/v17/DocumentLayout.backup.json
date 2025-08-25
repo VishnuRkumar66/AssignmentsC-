@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectsOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6703443-96D6-4D0C-8B86-C227EC8DF0B7}|Class\u0026ObjectsOne\\Class\u0026ObjectsOne.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\class\u0026objectsone\\class\u0026objectsone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6703443-96D6-4D0C-8B86-C227EC8DF0B7}|Class\u0026ObjectsOne\\Class\u0026ObjectsOne.csproj|solutionrelative:class\u0026objectsone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6703443-96D6-4D0C-8B86-C227EC8DF0B7}|Class\u0026ObjectsOne\\Class\u0026ObjectsOne.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\class\u0026objectsone\\class\u0026objectsone\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6703443-96D6-4D0C-8B86-C227EC8DF0B7}|Class\u0026ObjectsOne\\Class\u0026ObjectsOne.csproj|solutionrelative:class\u0026objectsone\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectsOne\\Class\u0026ObjectsOne\\Product.cs",
+              "RelativeDocumentMoniker": "Class\u0026ObjectsOne\\Product.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectsOne\\Class\u0026ObjectsOne\\Product.cs",
+              "RelativeToolTip": "Class\u0026ObjectsOne\\Product.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T14:29:03.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectsOne\\Class\u0026ObjectsOne\\Program.cs",
+              "RelativeDocumentMoniker": "Class\u0026ObjectsOne\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectsOne\\Class\u0026ObjectsOne\\Program.cs",
+              "RelativeToolTip": "Class\u0026ObjectsOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T14:28:38.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

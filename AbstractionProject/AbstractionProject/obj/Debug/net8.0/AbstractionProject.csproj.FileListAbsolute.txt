@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\bin\Debug\net8.0\AbstractionProject.exe
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\bin\Debug\net8.0\AbstractionProject.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\bin\Debug\net8.0\AbstractionProject.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\bin\Debug\net8.0\AbstractionProject.dll
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\bin\Debug\net8.0\AbstractionProject.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\AbstractionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\AbstractionProject.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\AbstractionProject.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\AbstractionProject.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\AbstractionProject.dll
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\refint\AbstractionProject.dll
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\AbstractionProject.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\AbstractionProject.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\AbstractionProject\AbstractionProject\obj\Debug\net8.0\ref\AbstractionProject.dll

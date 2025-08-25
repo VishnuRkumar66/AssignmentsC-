@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\Conditional_2nd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB4CE9F-2BDB-4F18-A67E-0D4E5CCD5C8E}|Assignment12Aug\\Assignment12Aug.csproj|c:\\users\\vishn\\onedrive\\desktop\\assignments\\conditional_2nd\\assignment12aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB4CE9F-2BDB-4F18-A67E-0D4E5CCD5C8E}|Assignment12Aug\\Assignment12Aug.csproj|solutionrelative:assignment12aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\Conditional_2nd\\Assignment12Aug\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment12Aug\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\Assignments\\Conditional_2nd\\Assignment12Aug\\Program.cs",
+              "RelativeToolTip": "Assignment12Aug\\Program.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAYwD0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:13:21.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

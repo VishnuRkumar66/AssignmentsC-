@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectThree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7243E2A-21FC-419D-AA96-F90277EA346F}|Class\u0026ObjectThree\\Class\u0026ObjectThree.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\class\u0026objectthree\\class\u0026objectthree\\movieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7243E2A-21FC-419D-AA96-F90277EA346F}|Class\u0026ObjectThree\\Class\u0026ObjectThree.csproj|solutionrelative:class\u0026objectthree\\movieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7243E2A-21FC-419D-AA96-F90277EA346F}|Class\u0026ObjectThree\\Class\u0026ObjectThree.csproj|c:\\users\\vishn\\onedrive\\desktop\\c#\\class\u0026objectthree\\class\u0026objectthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7243E2A-21FC-419D-AA96-F90277EA346F}|Class\u0026ObjectThree\\Class\u0026ObjectThree.csproj|solutionrelative:class\u0026objectthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieTicket.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectThree\\Class\u0026ObjectThree\\MovieTicket.cs",
+              "RelativeDocumentMoniker": "Class\u0026ObjectThree\\MovieTicket.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectThree\\Class\u0026ObjectThree\\MovieTicket.cs",
+              "RelativeToolTip": "Class\u0026ObjectThree\\MovieTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T14:59:17.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectThree\\Class\u0026ObjectThree\\Program.cs",
+              "RelativeDocumentMoniker": "Class\u0026ObjectThree\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\c#\\Class\u0026ObjectThree\\Class\u0026ObjectThree\\Program.cs",
+              "RelativeToolTip": "Class\u0026ObjectThree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T14:58:24.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\bin\Debug\net8.0\Inheritance4thQuestion.exe
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\bin\Debug\net8.0\Inheritance4thQuestion.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\bin\Debug\net8.0\Inheritance4thQuestion.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\bin\Debug\net8.0\Inheritance4thQuestion.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\bin\Debug\net8.0\Inheritance4thQuestion.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\Inheritance4thQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\Inheritance4thQuestion.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\Inheritance4thQuestion.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\Inheritance4thQuestion.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\Inheritance4thQuestion.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\refint\Inheritance4thQuestion.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\Inheritance4thQuestion.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\Inheritance4thQuestion.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Inheritance4thQuestion\Inheritance4thQuestion\obj\Debug\net8.0\ref\Inheritance4thQuestion.dll

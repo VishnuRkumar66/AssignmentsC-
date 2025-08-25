@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\bin\Debug\net8.0\Class&ObjectsTwo.exe
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\bin\Debug\net8.0\Class&ObjectsTwo.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\bin\Debug\net8.0\Class&ObjectsTwo.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\bin\Debug\net8.0\Class&ObjectsTwo.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\bin\Debug\net8.0\Class&ObjectsTwo.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\Class&ObjectsTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\Class&ObjectsTwo.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\Class&ObjectsTwo.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\Class&ObjectsTwo.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\Class&ObjectsTwo.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\refint\Class&ObjectsTwo.dll
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\Class&ObjectsTwo.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\Class&ObjectsTwo.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\Class&ObjectsTwo\Class&ObjectsTwo\obj\Debug\net8.0\ref\Class&ObjectsTwo.dll

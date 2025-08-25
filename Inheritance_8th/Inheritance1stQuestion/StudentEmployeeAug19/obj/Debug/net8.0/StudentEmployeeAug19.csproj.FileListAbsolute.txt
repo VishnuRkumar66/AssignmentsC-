@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\bin\Debug\net8.0\StudentEmployeeAug19.exe
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\bin\Debug\net8.0\StudentEmployeeAug19.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\bin\Debug\net8.0\StudentEmployeeAug19.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\bin\Debug\net8.0\StudentEmployeeAug19.dll
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\bin\Debug\net8.0\StudentEmployeeAug19.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\StudentEmployeeAug19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\StudentEmployeeAug19.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\StudentEmployeeAug19.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\StudentEmployeeAug19.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\StudentEmployeeAug19.dll
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\refint\StudentEmployeeAug19.dll
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\StudentEmployeeAug19.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\StudentEmployeeAug19.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\StudentEmployeeAug19\StudentEmployeeAug19\obj\Debug\net8.0\ref\StudentEmployeeAug19.dll
