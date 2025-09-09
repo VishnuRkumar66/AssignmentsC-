@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\bin\Debug\net8.0\EventDemo.exe
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\bin\Debug\net8.0\EventDemo.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\bin\Debug\net8.0\EventDemo.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\bin\Debug\net8.0\EventDemo.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\bin\Debug\net8.0\EventDemo.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\EventDemo.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\EventDemo.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\EventDemo.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\refint\EventDemo.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\EventDemo.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\EventDemo.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\EventDemo\obj\Debug\net8.0\ref\EventDemo.dll

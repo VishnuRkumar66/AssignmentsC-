@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\bin\Debug\net8.0\FileHandling2.exe
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\bin\Debug\net8.0\FileHandling2.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\bin\Debug\net8.0\FileHandling2.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\bin\Debug\net8.0\FileHandling2.dll
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\bin\Debug\net8.0\FileHandling2.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\FileHandling2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\FileHandling2.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\FileHandling2.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\FileHandling2.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\FileHandling2.dll
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\refint\FileHandling2.dll
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\FileHandling2.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\FileHandling2.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\FileHandlingAssignment\FileHandling2\obj\Debug\net8.0\ref\FileHandling2.dll

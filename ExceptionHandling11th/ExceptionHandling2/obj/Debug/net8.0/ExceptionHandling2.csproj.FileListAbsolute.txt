@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\bin\Debug\net8.0\ExceptionHandling2.exe
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\bin\Debug\net8.0\ExceptionHandling2.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\bin\Debug\net8.0\ExceptionHandling2.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\bin\Debug\net8.0\ExceptionHandling2.dll
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\bin\Debug\net8.0\ExceptionHandling2.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\ExceptionHandling2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\ExceptionHandling2.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\ExceptionHandling2.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\ExceptionHandling2.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\ExceptionHandling2.dll
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\refint\ExceptionHandling2.dll
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\ExceptionHandling2.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\ExceptionHandling2.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\ExceptionHandling\ExceptionHandling2\obj\Debug\net8.0\ref\ExceptionHandling2.dll

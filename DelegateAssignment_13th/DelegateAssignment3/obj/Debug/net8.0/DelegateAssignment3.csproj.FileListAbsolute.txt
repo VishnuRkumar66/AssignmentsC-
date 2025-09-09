@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\bin\Debug\net8.0\DelegateAssignment3.exe
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\bin\Debug\net8.0\DelegateAssignment3.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\bin\Debug\net8.0\DelegateAssignment3.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\bin\Debug\net8.0\DelegateAssignment3.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\bin\Debug\net8.0\DelegateAssignment3.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\DelegateAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\DelegateAssignment3.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\DelegateAssignment3.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\DelegateAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\DelegateAssignment3.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\refint\DelegateAssignment3.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\DelegateAssignment3.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\DelegateAssignment3.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\DelegateAssignment3\obj\Debug\net8.0\ref\DelegateAssignment3.dll

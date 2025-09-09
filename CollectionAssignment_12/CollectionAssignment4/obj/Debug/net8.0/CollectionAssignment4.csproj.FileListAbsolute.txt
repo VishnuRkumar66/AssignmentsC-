@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\CollectionAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\CollectionAssignment4.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\CollectionAssignment4.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\CollectionAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\bin\Debug\net8.0\CollectionAssignment4.exe
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\bin\Debug\net8.0\CollectionAssignment4.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\bin\Debug\net8.0\CollectionAssignment4.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\bin\Debug\net8.0\CollectionAssignment4.dll
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\bin\Debug\net8.0\CollectionAssignment4.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\CollectionAssignment4.dll
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\refint\CollectionAssignment4.dll
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\CollectionAssignment4.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\CollectionAssignment4.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\CollectionAssignment_12\CollectionAssignment4\obj\Debug\net8.0\ref\CollectionAssignment4.dll

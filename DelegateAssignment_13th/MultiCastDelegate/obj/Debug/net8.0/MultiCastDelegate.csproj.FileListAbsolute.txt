@@ -1,0 +1,14 @@
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.exe
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.deps.json
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\refint\MultiCastDelegate.dll
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.pdb
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\c#\DelegateAssignment\MultiCastDelegate\obj\Debug\net8.0\ref\MultiCastDelegate.dll
